@@ -1,0 +1,146 @@
+body {
+  width: 100%; height: 100%; margin: 0px; padding: 0px;
+  background-color: #8FBC8F;
+}
+
+header
+{
+  margin: auto;
+  width: 100%;
+  height: 200px
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  text-align: center;
+}
+.searchbar{
+  width: 500px;
+  text-align: center;
+  margin-left: 515px;
+  margin-top: 20px;
+}
+h1{
+  font-size: 90px;
+  color: #2F4F4F;
+  text-align: center;
+  width: 100%;
+}
+
+footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+.container{
+  margin: auto ;
+  width: 65%;
+  min-height: 100%;
+  text-align: center;
+}
+
+
+}
+
+html {
+  overflow-x: hidden;
+}
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/*user input*/
+#search{
+  width: 100%;
+  height: 45px;
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 14px 40px;
+  background-color: white;
+  color: black;
+  border: 2px solid #2F4F4F;
+
+}
+/*submit button*/
+
+
+/*results display*/
+#results{
+  font-family: sans-serif;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/*JavaScript created items*/
+.item {
+  height:250px;
+  padding-top:20px;
+  border-bottom:1px solid gray;
+}
+.item img {
+  width: 128px;
+  height: 200px;
+  float: right;
+}
+
+.whiteSpace{
+  margin-bottom: 50px;
+
+}
+
+#thriller, #fantasy, #comedy, #romance{
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 14px 40px;
+  background-color: white;
+  color: black;
+  border: 2px solid #2F4F4F;
+
+}
+
+/*#fantasy{
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 14px 40px;
+  background-color: white;
+  color: black;
+  border: 2px solid #2F4F4F;
+
+}
+
+#comedy{
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 14px 40px;
+  background-color: white;
+  color: black;
+  border: 2px solid #2F4F4F;
+
+}
+
+#romance{
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 14px 40px;
+  background-color: white;
+  color: black;
+  border: 2px solid #2F4F4F;
+
+}*/
+
+#searchBtn{
+  font-size: 16px;
+  border-radius: 8px;
+      padding: 14px 40px;
+  background-color: white;
+  color: black;
+  border: 2px solid #2F4F4F;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-left: 67px;
+
+}
